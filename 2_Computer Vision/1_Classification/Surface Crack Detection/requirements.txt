@@ -1,6 +1,0 @@
-kagglehub
-ipykernel
-numpy
-tensorflow
-matplotlib
-opencv-python
